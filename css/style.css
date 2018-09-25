@@ -1,0 +1,48 @@
+@import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css");
+
+.container {
+  position: relative;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.column {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.tree {
+  border: 1px solid #d3d3d3;
+  border-radius: 5px;
+  margin-top: 20px;
+  width: 100%;
+}
+
+button {
+  display: inline-block;
+  padding: 3px 10px;
+  font-size: 14px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.bt-green:hover {
+  background-color: #3e8e41;
+}
+
+.bt-green {
+  background-color: #4CAF50;
+}
+
+.bt-red {
+  background-color: #f44336;
+}
+
+.bt-yellow {
+  background-color: #f0ad4e;
+}
